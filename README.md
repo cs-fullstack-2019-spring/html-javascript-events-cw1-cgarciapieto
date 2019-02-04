@@ -1,4 +1,4 @@
-# HTML frontend JavaScript events CW
+HTML frontend JavaScript events CW
 
 
 ### Exercise 1: Crazy Typewriter

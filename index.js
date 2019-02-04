@@ -22,10 +22,11 @@ textEvent.addEventListener('keypress', function (e) {
     console.log("pressed");
 });
 
-
+//reset fucntion that resets TextArea when clicked
 resetMe.onclick=resetFunction;
 
 function resetFunction() {
+    textEvent.value = "";
 
 
 }
